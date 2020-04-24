@@ -25,11 +25,11 @@
 }
 
 .col-text {
-	max-width: 48rem;
+	max-width: 100%;
 }
 
 .col-login {
-	max-width: 24rem;
+	max-width: 100%;
 }
 
 @each $name, $value in (0: 0, xs: .25rem, sm: .5rem, lg: 1rem, xl: 1.5rem) {
