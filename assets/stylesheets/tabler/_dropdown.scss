@@ -5,10 +5,12 @@
 .dropdown-menu {
 	box-shadow: $dropdown-box-shadow;
 	min-width: 12rem;
+	direction: ltr;
 }
 
 .dropdown-item {
 	color: $text-muted-dark;
+	direction: ltr;
 }
 
 .dropdown-menu-arrow {
