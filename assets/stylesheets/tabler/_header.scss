@@ -21,6 +21,12 @@
 	}
 }
 
+
+#header a:link { color: #FFF !important; }
+#header a:visited { color: #FFF !important; }
+#header a:active { color: #00c6ff !important; font-weight: bold; }
+#header a:hover { color: #00c6ff !important; font-weight: bold;}
+
 .nav-unread {
 	position: absolute;
 	top: .25rem;
@@ -67,7 +73,7 @@
 //.header-nav {
 //	background: #fff;
 //	border-bottom: 1px solid $border-color;
-//	color: #FFF;
+//	color: $text-muted;
 //	align-items: center;
 //
 //	@media print {
