@@ -9,7 +9,7 @@ $enable-print-styles: true;
 
 //Fonts
 $font-family-base: 'Tahoma', -apple-system, BlinkMacSystemFont, "Tahoma", "Tahoma", Tahoma, Tahoma;
-$font-family-monospace: Tahoma, Tahoma, "Tahoma Mono", "Tahoma", Tahoma;
+$font-family-monospace: Tahoma, Tahoma, "Tahoma", "Tahoma", Tahoma;
 
 $font-size-base: .9375rem;
 $font-size-lg: 1.125rem;
@@ -44,7 +44,7 @@ $gray-300: #dee2e6;
 $gray-400: #ced4da;
 $gray-500: #adb5bd;
 $gray-600: #868e96;
-$gray-700: #00c6ff;
+$gray-700: #495057;
 $gray-800: #343a40;
 $gray-900: #212529;
 
@@ -62,7 +62,7 @@ $teal: #2bcbba;
 $cyan: #17a2b8;
 
 
-$text-muted: #FFF;
+$text-muted: #9aa0ac;
 $text-muted-dark: #6e7687;
 
 $white: #fff;
