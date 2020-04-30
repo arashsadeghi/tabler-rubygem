@@ -1,7 +1,7 @@
 .header {
 	padding-top: .75rem;
 	padding-bottom: .75rem;
-	background: #0070b7;
+	background: #fff;
 	border-bottom: 1px solid $border-color;
 
 	body.fixed-header & {
@@ -20,6 +20,12 @@
 		margin-top: .75rem;
 	}
 }
+
+#header a:link { color: #FFF !important; }
+#header a:visited { color: #FFF !important; }
+#header a:active { color: #00c6ff !important; font-weight: bold; }
+#header a:hover { color: #00c6ff !important; font-weight: bold;}
+
 
 .nav-unread {
 	position: absolute;
