@@ -21,11 +21,21 @@
 	}
 }
 
+.Header:link {
+     color: #FFF !important;
+ }
 
-#header a:link { color: #FFF !important; }
-#header a:visited { color: #FFF !important; }
-#header a:active { color: #00c6ff !important; font-weight: bold; }
-#header a:hover { color: #00c6ff !important; font-weight: bold;}
+.Header:visited {
+     color: #FFF !important;
+ }
+
+.Header:active {
+     color: #00c6ff !important;
+ }
+
+.Header:hover {
+     color: #00c6ff !important;
+ }
 
 .nav-unread {
 	position: absolute;
